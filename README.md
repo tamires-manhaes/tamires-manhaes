@@ -9,6 +9,6 @@
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://tamires-manhaes.github.io) <br>
-🐦 [Twitter](https://twitter.com/tahvapimenta) <br>
+🐦 [Twitter](https://twitter.com/ahvapimenta) <br>
 📸 [Instagram](https://instagram.com/ahvapimenta) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/tamires-manhaes/) <br>
