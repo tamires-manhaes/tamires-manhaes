@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Tamires! 👋
 
-<!--
-**tamires-manhaes/tamires-manhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Front-End Developer at [@Sambatech](https://github.com/sambatech/) <br>
+🇧🇷 Born in Salvador, Brazil <br>
+🔭 Graduating in Systems Analysis from the Federal Institute of Bahia.
+⚡ Fun fact: I love music and books in general and when I was a kid I wanted to be a soccer player (⚽️). In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 [Site](https://tamires-manhaes.github.io) <br>
+🐦 [Twitter](https://twitter.com/tahvapimenta) <br>
+📸 [Instagram](https://instagram.com/ahvapimenta) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/tamires-manhaes/) <br>
