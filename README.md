@@ -1,6 +1,6 @@
 ### Hi, I'm Tamires! 👋
 
-:woman_technologist: Front-End Developer at [@ConexaSaude](https://www.conexasaude.com.br/) <br>
+:woman_technologist: Software Engineer JR at [@ConexaSaude](https://www.conexasaude.com.br/) <br>
 🇧🇷 Born in Salvador, Brazil <br>
 🔭 Graduating in Systems Analysis from the Federal Institute of Bahia. <br>
 ⚡ Fun fact: I love music and books in general and when I was a kid I wanted to be a soccer player (⚽️). <br>
