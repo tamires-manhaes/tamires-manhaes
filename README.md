@@ -6,7 +6,7 @@
 :raising_hand: In my free time I like to run,to watch (and play) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
 
 ### Find me elsewhere 🌎
-🚀 [Site](https://tamires-manhaes.github.io) <br>
+🚀 [Site](https://tamires.dev) <br>
 🐦 [Twitter](https://twitter.com/ahvapimenta) <br>
 📸 [Instagram](https://instagram.com/ahvapimenta) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/tamires-manhaes/) <br>
