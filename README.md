@@ -1,5 +1,5 @@
 ### Hi, I'm Tamires! 👋
-:woman_technologist: FrontEnd Software Developer at Zig.fun<br>
+:woman_technologist: FrontEnd Software Developer at Aarin<br>
 🇧🇷 Born in Salvador, Brazil <br>
 🔭 Graduating in Systems Analysis. <br>
 ⚡ Fun fact: I love music and books in general and when I was a kid I wanted to be a soccer player (⚽️). <br>
